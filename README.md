@@ -6,4 +6,4 @@ https://www.udemy.com/course/modern-html-css-from-the-beginning
 
 > ## Topic: Animated Timeline
 
-### Live Demo: https://demo.archet.no/knowledge_resume
+### Live Demo: https://archet.no/knowledge_resume
